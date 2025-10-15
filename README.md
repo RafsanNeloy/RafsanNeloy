@@ -37,6 +37,10 @@
 <div align="left">
 </div>
 
+<h2 align="left">Badges</h2>
+
+[![An image of @rafsanneloy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rafsanneloy)](https://holopin.io/@rafsanneloy)
+
 ###
 
 <div align="center">
